@@ -50,9 +50,13 @@ Nous avons implémenté un modèle contrastif basé sur un réseau de neurones c
 
 🔹 Entraînement du Modèle
 Le modèle est entraîné sur l’ensemble d’apprentissage de CIFAR-10, où il apprend à différencier les images similaires et différentes.
+
 📌 Toutes les étapes d'entraînement sont exécutées directement dans le Notebook Jupyter.
+
 ✅ Optimisation avec Adam pour ajuster les poids du modèle.
+
 ✅ Utilisation de la perte contrastive pour affiner la distinction entre les images.
+
 ✅ Affichage dynamique avec tqdm pour suivre la progression de l’apprentissage.
 
 🔹 Évaluation du Modèle
