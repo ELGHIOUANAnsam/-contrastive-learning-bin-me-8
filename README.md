@@ -1,4 +1,4 @@
-# Contrastive Learning Lab
+Contrastive Learning Lab
 
 ## 📝 Projet réalisé par : (Binôme_8)
 - ELGHIOUAN Ansam
