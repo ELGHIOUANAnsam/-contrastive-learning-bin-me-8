@@ -10,25 +10,39 @@ Contrastive Learning Lab
 Ce projet fait partie du Lab sur l’Apprentissage Contrastif, où nous explorons les principes du contrastive learning et son application en deep learning.
 L’objectif est d’entraîner un modèle capable de comparer et distinguer des images en se basant sur leurs représentations dans un espace d’embeddings.
 Nous utilisons le dataset CIFAR-10, qui est téléchargé automatiquement via torchvision.datasets.CIFAR10.
+
 💡 Aucune manipulation manuelle des fichiers n'est requise, PyTorch gère directement le téléchargement et l’accès aux données.
+
 📌 Toutes les étapes du projet peuvent être exécutées directement depuis le Notebook Jupyter ou Google Colab, sans nécessiter de scripts externes.
 
 
 🔹 Structure du Projet  
+
 Ce projet est organisé de manière à faciliter la navigation et l'exécution des différentes étapes.
+
 📂 Jupyter Notebook
+
 -  → Contient tout le code du projet, incluant l'entraînement et l'évaluation du modèle contrastif.
+
+
 📂 Documentation
+
 - README.md → Fichier expliquant le projet, son fonctionnement, et les instructions pour l’exécuter.
+
+
 📂 Vidéo de Présentation
+
 - video/presentation_lab.mp4 → Vidéo de présentation directement disponible dans le repo.
+
 
 🔹 Vidéo de Présentation
 	🎥 Vidéo disponible dans le repo : presentation_lab.mp4
+ 
 	⏳ Durée : 
+ 
 	📌 Contenu de la vidéo :
 	- Explication de l’environnement de développement
-	- Présentation du code et de l’apprentissage contrastif
+ 	- Présentation du code et de l’apprentissage contrastif
 	- Résultats obtenus et analyse
 
 🔹 Installation & Prérequis
