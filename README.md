@@ -1,6 +1,6 @@
 # Contrastive Learning Lab
 
-## 📝 Projet réalisé par : (Binôme_8)
+## 📝 Projet réalisé par : (Binôme_12)
 - ELGHIOUAN Ansam
 - MAGHNOUJ Ayoub
 
