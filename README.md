@@ -28,12 +28,13 @@ Ce projet est organisé de manière à faciliter la navigation et l'exécution d
 - README.md → Fichier expliquant le projet, son fonctionnement, et les instructions pour l'exécuter.
 
 ### 📂 Vidéo de Présentation
-- video/presentation_lab.mp4 → Vidéo de présentation directement disponible dans le repo.
+- Video_Contrastive_Learning_Lab_ELGHIOUAN_Ansam_MAGHNOUJ_Ayoub.mp4
 
 ## 🔹 Vidéo de Présentation
-🎥 Vidéo disponible dans le repo : presentation_lab.mp4
+🎥 Lien vidéo : https://drive.google.com/file/d/114dW6XEpA4UUjr37iteYRba8LsOixAH0/view?usp=sharing
+<iframe src="https://drive.google.com/file/d/114dW6XEpA4UUjr37iteYRba8LsOixAH0/preview" width="640" height="480" allow="autoplay"></iframe>
 
-⏳ Durée : 
+⏳ Durée : 7 minutes
 
 📌 Contenu de la vidéo :
 - Explication de l'environnement de développement
