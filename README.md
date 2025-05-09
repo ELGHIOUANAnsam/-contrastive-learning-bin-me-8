@@ -32,7 +32,7 @@ Ce projet est organisé de manière à faciliter la navigation et l'exécution d
 
 ## 🔹 Vidéo de Présentation
 🎥 Lien vidéo : https://drive.google.com/file/d/114dW6XEpA4UUjr37iteYRba8LsOixAH0/view?usp=sharing
-<iframe src="https://drive.google.com/file/d/114dW6XEpA4UUjr37iteYRba8LsOixAH0/preview" width="640" height="480" allow="autoplay"></iframe>
+[![Watch the video](https://drive.google.com/file/d/114dW6XEpA4UUjr37iteYRba8LsOixAH0/preview)](https://drive.google.com/file/d/114dW6XEpA4UUjr37iteYRba8LsOixAH0/preview)
 
 ⏳ Durée : 7 minutes
 
