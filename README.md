@@ -31,7 +31,8 @@ Ce projet est organisé de manière à faciliter la navigation et l'exécution d
 - Video_Contrastive_Learning_Lab_ELGHIOUAN_Ansam_MAGHNOUJ_Ayoub.mp4
 
 ## 🔹 Vidéo de Présentation
-🎥 Lien vidéo : https://drive.google.com/file/d/114dW6XEpA4UUjr37iteYRba8LsOixAH0/view?usp=sharing
+🎥 Lien vidéo (Binôme 12) :
+https://drive.google.com/file/d/114dW6XEpA4UUjr37iteYRba8LsOixAH0/view?usp=sharing
 
 ⏳ Durée : 7 minutes
 
